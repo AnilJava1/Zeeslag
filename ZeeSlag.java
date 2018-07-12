@@ -86,11 +86,17 @@ class boot{
 }
 
 
-/*
-Werk stap voor stap, beschrijf elk miniscuul stapje.
-1: ik heb een boot nodig --> maak een boot.
-2: ik heb een scanner nodig.
-3
-2: ik heb een plek nodig waar de boot op staat. --> Maak de plek
+/*1: Functionele doelstellingen: wat moet er gebeuren
+-	Functionele doelstelling 1: Creëer een scanner waar in de console input gegeven van worden --> Check
+-	Funct. doel. 2: Creëer een string met karakters --> Check.
+-	Funct. doel. 3: Contole moment: Controleer wat er geprint wordt als er in de console input gegeven word. Check: de tekst die ik heb opgegeven wordt geprint.
+					Althans, de code werkt, de if en else statements werken. 0=plons, 1= boem. Hetgeen wat geprint wordt klopt voor de 'string'. 
+-	Funct. doel. 4: Zorg dat er 10x input gegeven kan worden in de console.
 
-*/
+
+-	Creëer een mogelijkheid om te controleren of de input die in de console gegeven is, correct is.
+
+ * 
+ * 
+ * 
+ */
